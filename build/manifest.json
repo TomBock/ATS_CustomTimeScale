@@ -1,8 +1,8 @@
 ﻿{
   "name": "x5 and x10 Game Speed",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/TomBock/ATS_InstantPlaceBuilding",
-  "description": "Hold CTRL to place buildings without construction cost or time",
+  "website_url": "https://github.com/TomBock/ATS_CustomTimeScale",
+  "description": "Adds x5 and x10 Game Speeds to the game",
   "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
 }
 
